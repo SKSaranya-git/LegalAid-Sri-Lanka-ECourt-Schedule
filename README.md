@@ -330,7 +330,7 @@ Developed collaboratively using Git version control and Agile project management
 For questions, issues, or contributions:
 - 📧 Email: [kirupananthansaranya@gmail.com](mailto:kirupananthansaranya@gmail.com)
 - 🐛 Issues: [GitHub Issues](https://github.com/SKSaranya-git/LegalAid-Sri-Lanka-ECourt-Schedule/issues)
-- 📖 Documentation: [Project Saranya](https://github.com/SKSaranya-git/LegalAid-Sri-Lanka-ECourt-Schedule/Saranya)
+- 📖 Documentation: [Project Wiki](https://github.com/SKSaranya-git/LegalAid-Sri-Lanka-ECourt-Schedule/wiki)
 
 ---
 
